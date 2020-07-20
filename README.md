@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm and engineer with quite a bit of free time on my hands (thanks COVID-19?). 
+
+🌱 I’m currently learning Go and AWS Fargate
+
 <!--
 **fischersean/fischersean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
