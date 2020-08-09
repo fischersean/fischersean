@@ -2,7 +2,7 @@
 
 I'm an engineer with quite a bit of free time on my hands (thanks COVID-19?)
 
-🌱 I’m currently learning Go and AWS Fargate
+🌱 I’m currently learning Go and Vue
 
 <!--
 **fischersean/fischersean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
