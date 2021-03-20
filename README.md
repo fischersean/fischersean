@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm an engineer with quite a bit of free time on my hands (thanks COVID-19?)
+### hey. 👋
 
 🌱 I’m currently learning Go and Vue
 
