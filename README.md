@@ -1,4 +1,4 @@
-### hey.
+### Hey.
 
 🌱 I’m currently learning Go and Vue
 
