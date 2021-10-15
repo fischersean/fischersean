@@ -1,7 +1,4 @@
 ### Hey.
-
-🌱 I’m currently learning Go and Vue
-
 <!--
 **fischersean/fischersean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
